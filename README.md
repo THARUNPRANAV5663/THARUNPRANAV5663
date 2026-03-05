@@ -1,7 +1,7 @@
 # Hi, I'm Tharun Pranav K S 👋
 
 🎓 B.E in Electronics & Communication Engineering — Velalar College of Engineering and Technology (2025)  
-📍 Tiruppur, Tamil Nadu | Open to Remote / Chennai / Bangalore  
+📍 Tiruppur, Tamil Nadu | Open to: Coimbatore · Chennai · Bangalore · Remote  
 📧 tharunpranavks0416@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tharunpranav-k-s-8a0608250/)
 
@@ -29,7 +29,7 @@ I'm an entry-level Data Scientist with hands-on experience in building and deplo
 | Project | Description | Tech | Demo |
 |---|---|---|---|
 | [RAG PDF Q&A System](https://github.com/THARUNPRANAV5663/RAG_MODEL_PDF_READER_KSTP) | Ask questions from any PDF using RAG pipeline | FAISS, Sentence Transformers, Streamlit | [Live Demo](https://ragmodelpdfreaderkstp.streamlit.app/) |
-| [LLM Text Detector](https://github.com/THARUNPRANAV5663/LLM-Text-Detector) | Detects whether text is AI-generated or human-written | TensorFlow, Keras, TF-IDF, Streamlit | Live |
+| [LLM Text Detector](https://github.com/THARUNPRANAV5663/LLM-Text-Detector) | Detects whether text is AI-generated or human-written | TensorFlow, Keras, TF-IDF, Streamlit | [Live Demo](https://llm-text-detector-kstp.streamlit.app/) |
 | [Diabetes Prediction](https://github.com/THARUNPRANAV5663/diabetes_prediction) | Predicts diabetes risk using Logistic Regression | scikit-learn, Flask, Render | [Live Demo](https://lnkd.in/gPXtrX3V) |
 
 ---
